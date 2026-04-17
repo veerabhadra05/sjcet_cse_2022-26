@@ -35,7 +35,7 @@ export default function App() {
   const doneRef  = useRef(false);
 
   useEffect(() => {
-    document.title = "End of An Era 💫 | AI & DS – B (2022–2026)";
+    document.title = "End of An Era 💫 | CSE (2022–2026)";
   }, []);
 
   // Start the loader RAF only after successful login
