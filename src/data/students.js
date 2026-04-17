@@ -1,0 +1,78 @@
+ 
+
+
+
+export const students = [
+  { id: 1, roll: "22G31A0510", name: "Golla Ranganna", emoji: "🔥", desc: "Strong presence", photo: "/students/22G31A0510.jpeg" },
+  { id: 2, roll: "22G31A0517", name: "Kanike Sravanthi", emoji: "🌸", desc: "Kind and positive soul", photo: "/students/22G31A0517.jpeg" },
+  { id: 3, roll: "22G31A0528", name: "Kuruba Anjali", emoji: "🌟", desc: "Always shines bright", photo: "/students/22G31A0528.jpeg" },
+  { id: 4, roll: "22G31A0536", name: "Madri Uday Kumar", emoji: "🚀", desc: "Focused on success", photo: "/students/22G31A0536.jpeg" },
+
+  { id: 8, roll: "22G31A0502", name: "B Padmavathi", emoji: "🌸", desc: "Graceful and strong", photo: "/students/22G31A0502.jpeg" },
+  { id: 5, roll: "22G31A0546", name: "Nagaluti Hemalatha", emoji: "💡", desc: "Hardworking and consistent", photo: "/students/22G31A0546.jpeg" },
+  { id: 62, roll: "23G35A0502", name: "Malekar Akhilesh", emoji: "⚡", desc: "Always energetic", photo: "/students/23G35A0502.jpeg" },
+  { id: 6, roll: "22G31A0559", name: "Uthi Veerabhadrappa", emoji: "🔥", desc: "The one who never gives up", photo: "/students/22G31A0559.jpeg" },
+  { id: 9, roll: "22G31A0512", name: "Gujjala Naveen", emoji: "😎", desc: "Cool and composed", photo: "/students/22G31A0512.jpeg" },
+  { id: 11, roll: "22G31A0501", name: "Bolta Eshwar Sai Prasad", emoji: "🎯", desc: "Focused and sharp", photo: "/students/22G31A0501.jpeg" },
+  { id: 12, roll: "22G31A0519", name: "Karri DeviBhagyaSree", emoji: "🌈", desc: "Brings happiness everywhere", photo: "/students/22G31A0519.jpeg" },
+  { id: 34, roll: "22G31A0511", name: "Gonapadu Rokkam Prasad", emoji: "💡", desc: "Smart and focused", photo: "/students/22G31A0511.jpeg" },
+  
+  { id: 7, roll: "22G31A0523", name: "Kodumur Sailaja", emoji: "📚", desc: "Silent achiever", photo: "/students/22G31A0523.jpeg" },
+  
+  { id: 13, roll: "22G31A0549", name: "Palakommu John", emoji: "😄", desc: "Friendly and fun-loving", photo: "/students/22G31A0549.jpeg" },
+  { id: 14, roll: "22G31A0524", name: "Koduvayi Jyothi", emoji: "🌟", desc: "Bright and confident", photo: "/students/22G31A0524.jpeg" },
+  { id: 15, roll: "22G31A0560", name: "Uppara Rani", emoji: "🔥", desc: "Strong and determined", photo: "/students/22G31A0560.jpeg" },
+  { id: 10, roll: "22G31A0533", name: "Kuruva Veeranjaneyulu", emoji: "⚡", desc: "Full of energy", photo: "/students/22G31A0533.jpeg" },
+
+  { id: 17, roll: "22G31A0521", name: "Khanbu Adil Ahmed", emoji: "💡", desc: "Logical thinker", photo: "/students/22G31A0521.jpeg" },
+  { id: 18, roll: "22G31A0503", name: "Chakali Rakesh", emoji: "⚡", desc: "Energetic personality", photo: "/students/22G31A0503.jpeg" },
+  { id: 19, roll: "22G31A0554", name: "S Varsha", emoji: "🌼", desc: "Simple and sweet", photo: "/students/22G31A0554.jpeg" },
+  { id: 20, roll: "22G31A0530", name: "Kuruva Sravani", emoji: "🌸", desc: "Calm and composed", photo: "/students/22G31A0530.jpeg" },
+  { id: 21, roll: "22G31A0508", name: "Golla Giribabu", emoji: "🔥", desc: "Never backs down from challenges", photo: "/students/22G31A0508.jpeg" },
+  { id: 22, roll: "22G31A0541", name: "Mohammed Faizaan", emoji: "😎", desc: "Stylish and confident", photo: "/students/22G31A0541.jpeg" },
+  { id: 23, roll: "22G31A0520", name: "Kenchugundu Jogi Renuka", emoji: "🌟", desc: "Always smiling", photo: "/students/22G31A0520.jpeg" },
+  { id: 24, roll: "22G31A0514", name: "Jaggula Vennela", emoji: "🌙", desc: "Calm like moonlight", photo: "/students/22G31A0514.jpeg" },
+  { id: 33, roll: "22G31A0509", name: "Golla Indraja", emoji: "🌼", desc: "Friendly and cheerful", photo: "/students/22G31A0509.jpeg" },
+  { id: 25, roll: "22G31A0551", name: "Pillala Charan Kumar", emoji: "🚀", desc: "Driven to achieve", photo: "/students/22G31A0551.jpeg" },
+  { id: 58, roll: "22G31A0558", name: "Talari Rabika", emoji: "🌸", desc: "Simple and sweet", photo: "/students/22G31A0558.jpeg" },
+  { id: 27, roll: "22G31A0538", name: "Malkoji Amareshgoud", emoji: "⚡", desc: "Energetic spirit", photo: "/students/22G31A0538.jpeg" },
+  { id: 16, roll: "22G31A0539", name: "Mandala Shirisha", emoji: "🌸", desc: "Positive mindset always", photo: "/students/22G31A0539.jpeg" },
+  { id: 28, roll: "22G31A0505", name: "Ediga Swathi", emoji: "🌼", desc: "Always cheerful", photo: "/students/22G31A0505.jpeg" },
+  { id: 29, roll: "22G31A0527", name: "Kuntanahal Vishmitha", emoji: "💫", desc: "Unique personality", photo: "/students/22G31A0527.jpeg" },
+  { id: 26, roll: "22G31A0506", name: "Deepthi", emoji: "🌸", desc: "Kind-hearted", photo: "/students/22G31A0506.jpeg" },
+  { id: 30, roll: "22G31A0550", name: "Pandre Aparna", emoji: "🌸", desc: "Soft and strong", photo: "/students/22G31A0550.jpeg" },
+  { id: 31, roll: "22G31A0504", name: "Dasari Mahesh", emoji: "🔥", desc: "Strong and determined", photo: "/students/22G31A0504.jpeg" },
+  { id: 32, roll: "22G31A0507", name: "G Likitha", emoji: "🌸", desc: "Positive and calm", photo: "/students/22G31A0507.jpeg" },
+  { id: 35, roll: "22G31A0513", name: "Huldira Prathyusha", emoji: "🌟", desc: "Bright and confident", photo: "/students/22G31A0513.jpeg" },
+  { id: 36, roll: "22G31A0515", name: "Jalvadi Rajasekar", emoji: "⚡", desc: "Energetic personality", photo: "/students/22G31A0515.jpeg" },
+  { id: 37, roll: "22G31A0516", name: "K D Bharathi", emoji: "🌸", desc: "Kind and supportive", photo: "/students/22G31A0516.jpeg" },
+  { id: 38, roll: "22G31A0518", name: "Kanike Udaya Swetha", emoji: "🌼", desc: "Simple and graceful", photo: "/students/22G31A0518.jpeg" },
+  { id: 60, roll: "22G31A0562", name: "Yaganti Pravallika", emoji: "🌟", desc: "Bright and confident", photo: "/students/22G31A0562.jpeg" },
+  { id: 61, roll: "23G35A0501", name: "Dupati Srihari", emoji: "🔥", desc: "Focused achiever", photo: "/students/23G35A0501.jpeg" },
+  { id: 39, roll: "22G31A0522", name: "Khanbu Arshiya Farheen", emoji: "💫", desc: "Creative thinker", photo: "/students/22G31A0522.jpeg" },
+  { id: 41, roll: "22G31A0526", name: "K Alli Basha", emoji: "😎", desc: "Cool and composed", photo: "/students/22G31A0526.jpeg" },
+  { id: 63, roll: "222N1A0550", name: "V Vijayendra", emoji: "🌟", desc: "Soft heart, strong mind", photo: "/students/222N1A0550.jpeg" },
+{ id: 40, roll: "22G31A0525", name: "Korollu Anithamma", emoji: "🌟", desc: "Always smiling", photo: "/students/22G31A0525.jpeg" },
+{ id: 42, roll: "22G31A0529", name: "Kuruba Ishwarya", emoji: "🌸", desc: "Graceful personality", photo: "/students/22G31A0529.jpeg" },
+{ id: 43, roll: "22G31A0531", name: "Kuruva Siri", emoji: "🌼", desc: "Always cheerful", photo: "/students/22G31A0531.jpeg" },
+{ id: 44, roll: "22G31A0532", name: "Kuruva Sujatha", emoji: "🌟", desc: "Strong and confident", photo: "/students/22G31A0532.jpeg" },
+{ id: 45, roll: "22G31A0534", name: "Kyrupula Harika", emoji: "💡", desc: "Creative and smart", photo: "/students/22G31A0534.jpeg" },
+{ id: 55, roll: "22G31A0555", name: "Sanjanolla Sriram", emoji: "💡", desc: "Smart and focused", photo: "/students/22G31A0555.jpeg" },
+{ id: 46, roll: "22G31A0535", name: "M Subash", emoji: "🔥", desc: "Hardworking and focused", photo: "/students/22G31A0535.jpeg" },
+{ id: 47, roll: "22G31A0537", name: "Mala Anitha", emoji: "🌸", desc: "Kind-hearted", photo: "/students/22G31A0537.jpeg" },
+{ id: 48, roll: "22G31A0542", name: "Mulla Abdul Khader Jeelani", emoji: "⚡", desc: "Energetic and sharp", photo: "/students/22G31A0542.jpeg" },
+{ id: 52, roll: "22G31A0548", name: "P Iman Zaberiya", emoji: "🌸", desc: "Soft and kind", photo: "/students/22G31A0548.jpeg" },
+{ id: 53, roll: "22G31A0552", name: "Ravihal Paridi Sirisha", emoji: "🌼", desc: "Always cheerful", photo: "/students/22G31A0552.jpeg" },
+{ id: 50, roll: "22G31A0544", name: "Myle Vijaya Lakshmi", emoji: "🌟", desc: "Positive mindset", photo: "/students/22G31A0544.jpeg" },
+{ id: 49, roll: "22G31A0543", name: "Mulla Ghousia", emoji: "🌼", desc: "Friendly and warm", photo: "/students/22G31A0543.jpeg" },
+{ id: 56, roll: "22G31A0556", name: "Shaik Chand Basha", emoji: "🔥", desc: "Never backs down", photo: "/students/22G31A0556.jpeg" },
+{ id: 51, roll: "22G31A0545", name: "Nagalli Chenna Kesava", emoji: "🔥", desc: "Strong and steady", photo: "/students/22G31A0545.jpeg" },
+{ id: 54, roll: "22G31A0553", name: "S Sohail", emoji: "😎", desc: "Cool and friendly", photo: "/students/22G31A0553.jpeg" },
+{ id: 59, roll: "22G31A0561", name: "Y Pavan Kumar Reddy", emoji: "🚀", desc: "Goal-oriented", photo: "/students/22G31A0561.jpeg" },
+{ id: 57, roll: "22G31A0557", name: "Shaik Saleem Basha", emoji: "⚡", desc: "Energetic personality", photo: "/students/22G31A0557.jpeg" },
+{ id: 63, roll: "23G35A0503", name: "Talari Vinod Kumar", emoji: "💡", desc: "Ideas factory, always on", photo: "/students/23G35A0503.jpg" }
+
+];
+
+
+
