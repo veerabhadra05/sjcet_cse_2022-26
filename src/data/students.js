@@ -14,14 +14,14 @@ export const students = [
   { id: 6, roll: "22G31A0559", name: "Uthi Veerabhadrappa", emoji: "🔥", desc: "The one who never gives up", photo: "/students/22G31A0559.jpeg" },
   { id: 9, roll: "22G31A0512", name: "Gujjala Naveen", emoji: "😎", desc: "Cool and composed", photo: "/students/22G31A0512.jpeg" },
   { id: 11, roll: "22G31A0501", name: "Bolta Eshwar Sai Prasad", emoji: "🎯", desc: "Focused and sharp", photo: "/students/22G31A0501.jpeg" },
-  { id: 12, roll: "22G31A0519", name: "Karri DeviBhagyaSree", emoji: "🌈", desc: "Brings happiness everywhere", photo: "/students/22G31A0519.jpeg" },
-  { id: 34, roll: "22G31A0511", name: "Gonapadu Rokkam Prasad", emoji: "💡", desc: "Smart and focused", photo: "/students/22G31A0511.jpeg" },
   
+  { id: 34, roll: "22G31A0511", name: "Gonapadu Rokkam Prasad", emoji: "💡", desc: "Smart and focused", photo: "/students/22G31A0511.jpeg" },
   { id: 7, roll: "22G31A0523", name: "Kodumur Sailaja", emoji: "📚", desc: "Silent achiever", photo: "/students/22G31A0523.jpeg" },
   
   { id: 13, roll: "22G31A0549", name: "Palakommu John", emoji: "😄", desc: "Friendly and fun-loving", photo: "/students/22G31A0549.jpeg" },
   { id: 14, roll: "22G31A0524", name: "Koduvayi Jyothi", emoji: "🌟", desc: "Bright and confident", photo: "/students/22G31A0524.jpeg" },
   { id: 15, roll: "22G31A0560", name: "Uppara Rani", emoji: "🔥", desc: "Strong and determined", photo: "/students/22G31A0560.jpeg" },
+  { id: 12, roll: "22G31A0519", name: "Karri DeviBhagyaSree", emoji: "🌈", desc: "Brings happiness everywhere", photo: "/students/22G31A0519.jpeg" },
   { id: 10, roll: "22G31A0533", name: "Kuruva Veeranjaneyulu", emoji: "⚡", desc: "Full of energy", photo: "/students/22G31A0533.jpeg" },
 
   { id: 17, roll: "22G31A0521", name: "Khanbu Adil Ahmed", emoji: "💡", desc: "Logical thinker", photo: "/students/22G31A0521.jpeg" },

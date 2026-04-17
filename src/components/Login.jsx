@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 // ── Hardcoded credentials ─────────────────────────────────────────
 const VALID_USERNAME = "cse";
-const VALID_PASSWORD = "poola";
+const VALID_PASSWORD = "thebrand";
 const SESSION_KEY    = "cse_auth";
 // ─────────────────────────────────────────────────────────────────
 

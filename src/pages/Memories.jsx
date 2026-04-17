@@ -25,6 +25,8 @@ const media = [
   { type: "image", src: "/memories/17.jpeg" },
   { type: "image", src: "/memories/18.jpeg" },
   { type: "image", src: "/memories/19.jpeg" },
+  { type: "image", src: "/memories/64.jpeg" },
+  { type: "image", src: "/memories/65.jpeg" },
   { type: "image", src: "/memories/20.jpeg" },
   { type: "image", src: "/memories/22.jpeg" },
   { type: "image", src: "/memories/23.jpeg" },
