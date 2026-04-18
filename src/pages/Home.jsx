@@ -289,7 +289,7 @@ export default function Home() {
             <p className="mt-4 text-white/40 text-[9px] uppercase tracking-[0.4em]">Batch of 2022 — 2026</p>
           </div>
           <div className="h-[40vh]"><HeroSlideshow /></div>
-          <Link to="/students" className="w-full py-4 bg-purple-600 rounded-full text-center text-[10px] uppercase tracking-[0.4em] font-bold shadow-[0_0_30px_rgba(168,85,247,0.4)]">
+          <Link to="/memories" className="w-full py-4 bg-purple-600 rounded-full text-center text-[10px] uppercase tracking-[0.4em] font-bold shadow-[0_0_30px_rgba(168,85,247,0.4)]">
             Enter Memories 🚀
           </Link>
         </motion.div>
@@ -304,7 +304,7 @@ export default function Home() {
               <span className="text-9xl bg-gradient-to-r from-purple-300 via-pink-300 to-blue-300 bg-clip-text text-transparent">Era</span>
             </h1>
             <div className="flex gap-4">
-              <Link to="/students" className="px-10 py-4 border border-purple-500/50 bg-purple-900/20 rounded-full text-xs uppercase tracking-[0.4em] hover:bg-purple-600 transition-all shadow-[0_0_30px_rgba(168,85,247,0.2)]">
+              <Link to="/memories" className="px-10 py-4 border border-purple-500/50 bg-purple-900/20 rounded-full text-xs uppercase tracking-[0.4em] hover:bg-purple-600 transition-all shadow-[0_0_30px_rgba(168,85,247,0.2)]">
                 Enter Memories 🚀
               </Link>
               <Link to="/journey" className="px-10 py-4 border border-white/20 rounded-full text-xs uppercase tracking-[0.4em] hover:bg-white/10 transition-all">

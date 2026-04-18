@@ -69,16 +69,16 @@ export const teachers = [
     subject: "Natural Language Processing",
     quote: "Language is the bridge between minds. 🌐",
     message: "Keep learning, keep growing. The world needs your ideas! 💖",
-    photo: "/videos/Screenshot 2026-04-11 182321.png",
+    photo: "/teachers/8.jpeg",
   },
   {
     id: 9,
     name: "Mr. D. Dada Kalander",
-    qualification: "Assistant Professor | M.Tech (Ph.D.)",
+    qualification: "Assistant Professor | M.Tech ",
     subject: "Software Engineering",
     quote: "The cloud has no ceiling — neither do you. ☁️",
     message: "Your success is our greatest achievement. 🏆",
-    photo: "/videos/Screenshot 2026-04-11 182335.png",
+    photo: "/teachers/9.jpeg",
   }
  
  
